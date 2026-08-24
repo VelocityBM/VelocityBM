@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Brenno  and I'm a college student from Brazil.<br>(Why the different username? Had to come up with something to account for already taken names, although my actual speed isn't that great..)</p>
+<p align="left">My name is Brenno  and I'm a college student from Brazil.<br>(Why the different username? Had to come up with something to account for already taken names, keeping it simple and short)</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Started majoring in Information Systems, I have a bit of related experience in the past by completing my Web Developer Associate Degree<br>--------------------------------------------------------------------------------------------------------------------------<br>📚 I'm currently learning Python for my first semester.<br>Goals: <br>Become a developer, hopefully gaining an internship so I can get practical experience and grow my skills.<br>Advance some of my other skills (3D Modelling, Animation..)<br>Fun fact:<br>Blender is completely free.</p>
+<p align="left">I started majoring in Information Systems, I have a bit of related experience in the past by completing my Web Developer Associate Degree<br>------------------------------------------------------------------------------------------------------------------------------<br>Goals: <br>Become a developer, hopefully gaining an internship so I can get practical experience and grow my skills.<br>Advance some of my other skills (3D Modelling, Animation..)<br>Fun fact:<br>Blender is completely free to use.</p>
 
 ###
 
